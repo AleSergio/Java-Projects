@@ -4,7 +4,7 @@ Input is performed only through buttons, without possibility to input from keybo
 \
 ![Calculator work](images/calc.jpg)
 
-### Interface libraries
+### Graphic Interface libraries
 * Java Swing
 * Abstract Window Toolkit (AWT)
 
